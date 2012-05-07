@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControlTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControlTest\bin\Debug\UsersControlTest.dll
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControlTest\bin\Debug\UsersControlTest.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControlTest\bin\Debug\nunit.framework.dll
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControlTest\bin\Debug\UsersControl.exe
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControlTest\bin\Debug\UsersControl.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControlTest\bin\Debug\nunit.framework.xml
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControlTest\obj\Debug\UsersControlTest.dll
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControlTest\obj\Debug\UsersControlTest.pdb

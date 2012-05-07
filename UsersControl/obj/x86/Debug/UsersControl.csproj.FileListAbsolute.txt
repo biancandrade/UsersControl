@@ -1,0 +1,8 @@
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl\bin\Debug\UsersControl.exe
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl\bin\Debug\UsersControl.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl\obj\x86\Debug\UsersControl.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl\obj\x86\Debug\UsersControl.exe
+c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl\obj\x86\Debug\UsersControl.pdb

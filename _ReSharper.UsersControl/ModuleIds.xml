@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="D6A329ED-1907-436B-AA8F-04323B48D5A2" ModuleId="UsersControlTest" />
+  <Module PersistentId="8D27ABDE-6F63-48F9-8EE1-A23A6571C283" ModuleId="UsersControl" />
+  <Module PersistentId="3E7155BE-05B0-45AD-92D6-545F0F5F6277" ModuleId="UsersControl.Core" />
+</Modules>
