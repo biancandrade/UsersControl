@@ -1,0 +1,7 @@
+bin/
+obj/
+/src/*.suo
+
+/src/_ReSharper.UsersControl
+/src/packages
+!/src/packages/repositories.config

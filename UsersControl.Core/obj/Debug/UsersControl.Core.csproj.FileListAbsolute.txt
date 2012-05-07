@@ -1,5 +1,0 @@
-c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl.Core\bin\Debug\UsersControl.Core.dll
-c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl.Core\bin\Debug\UsersControl.Core.pdb
-c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl.Core\obj\Debug\ResolveAssemblyReference.cache
-c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl.Core\obj\Debug\UsersControl.Core.dll
-c:\users\usuario\documents\visual studio 2010\Projects\UsersControl\UsersControl.Core\obj\Debug\UsersControl.Core.pdb
