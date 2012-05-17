@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersControl", "UsersControl\UsersControl.csproj", "{8D27ABDE-6F63-48F9-8EE1-A23A6571C283}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersControl.UI", "UsersControl\UsersControl.UI.csproj", "{8D27ABDE-6F63-48F9-8EE1-A23A6571C283}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersControl.Test", "UsersControlTest\UsersControl.Test.csproj", "{D6A329ED-1907-436B-AA8F-04323B48D5A2}"
 EndProject
@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersControl.Core", "UsersControl.Core\UsersControl.Core.csproj", "{3E7155BE-05B0-45AD-92D6-545F0F5F6277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersControl.DI", "UsersControl.DI\UsersControl.DI.csproj", "{0200191D-9DFB-428F-9368-2C555BF82692}"
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
@@ -57,6 +59,16 @@ Global
 		{3E7155BE-05B0-45AD-92D6-545F0F5F6277}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{3E7155BE-05B0-45AD-92D6-545F0F5F6277}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{3E7155BE-05B0-45AD-92D6-545F0F5F6277}.Release|x86.ActiveCfg = Release|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0200191D-9DFB-428F-9368-2C555BF82692}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
